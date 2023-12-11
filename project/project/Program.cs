@@ -1,12 +1,12 @@
 ﻿namespace project
 {
-	internal class Program
+	public class Program
 	{
-		static int plus(int a, int b) { return a + b; }
+		public static int plus(int a, int b) { return a + b; }
 
 		static void Main(string[] args)
 		{
-			Console.WriteLine("Hello, World!");hgggg
+			Console.WriteLine("Hello, World!");
 		}
 	}
 }
