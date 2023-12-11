@@ -1,0 +1,4 @@
+C:\Users\HACTR\OneDrive\Документы\ПИ\software-engineering\project\project\obj\Debug\net7.0\project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HACTR\OneDrive\Документы\ПИ\software-engineering\project\project\obj\Debug\net7.0\project.AssemblyInfoInputs.cache
+C:\Users\HACTR\OneDrive\Документы\ПИ\software-engineering\project\project\obj\Debug\net7.0\project.AssemblyInfo.cs
+C:\Users\HACTR\OneDrive\Документы\ПИ\software-engineering\project\project\obj\Debug\net7.0\project.csproj.CoreCompileInputs.cache
